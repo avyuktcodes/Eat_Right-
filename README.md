@@ -51,7 +51,7 @@ To run this project locally, simply follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YatharthGupta1803/Eat_Right.git
+git clone https://github.com/avyuktcodes/Eat_Right-.git
 cd EatRight/frontend
 ```
 
